@@ -1,2 +1,3 @@
 # TIK-TAK-TOE-multiplayer-
-so hard
+first game using js.
+used socket.io
